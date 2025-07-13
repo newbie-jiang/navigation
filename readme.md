@@ -2,9 +2,22 @@
 
 
 
-arm架构
+## **arm架构**
 
-| [stm32f103c8t6为例，展示最小启动代码 keil and gcc](https://github.com/newbie-jiang/stm32c8t6-mini-start) |
-| ------------------------------------------------------------ |
-| [AT32-Cmake](https://github.com/newbie-jiang/at32-cmake)  |
+- [stm32f103c8t6为例，展示最小启动代码 keil and gcc](https://github.com/newbie-jiang/stm32c8t6-mini-start)
+- [AT32-Cmake](https://github.com/newbie-jiang/at32-cmake)
+
+## **视频总结方案**
+
+- [视频总结方案](https://github.com/newbie-jiang/at32-cmake)
+
+## **art-pi**
+
+- [移植韦东山智能家居系统](https://github.com/newbie-jiang/100ask-study)
+
+  
+
+
+
+
 
