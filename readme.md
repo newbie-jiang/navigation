@@ -9,7 +9,7 @@
 
 ## **视频总结方案**
 
-- [视频总结方案](https://github.com/newbie-jiang/at32-cmake)
+- [视频总结方案](https://github.com/newbie-jiang/video_to_html)
 
 ## **art-pi**
 
