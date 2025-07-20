@@ -23,6 +23,7 @@
 - [FreeRTOSv202406.01-LTS(art-pi-keil)](https://github.com/newbie-jiang/FreeRTOSv202406.01-LTS-test)
 
 
-
+## **lvgl**
+- [lvgl9.2快速移植](https://github.com/newbie-jiang/lvgl9.2_keil)
 
 
