@@ -26,4 +26,7 @@
 ## **lvgl**
 - [lvgl9.2快速移植](https://github.com/newbie-jiang/lvgl9.2_keil)
 
+## **lib**
+- [crc-lib-c](https://github.com/newbie-jiang/crc-lib-c)
+
 
