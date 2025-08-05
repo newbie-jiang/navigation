@@ -29,4 +29,8 @@
 ## **lib**
 - [crc-lib-c](https://github.com/newbie-jiang/crc-lib-c)
 
+## **lib**
+- [cmake study](https://github.com/newbie-jiang/cmake-study)
+
+
 
