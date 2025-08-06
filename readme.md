@@ -27,7 +27,11 @@
 - [lvgl9.2快速移植](https://github.com/newbie-jiang/lvgl9.2_keil)
 
 ## **lib**
-- [crc-lib-c](https://github.com/newbie-jiang/crc-lib-c)
+- [crc-lib-c](https://github.com/newbie-jiang/crc_lib_c)
+- [zlib](https://github.com/newbie-jiang/zlib)
+- [miniz](https://github.com/newbie-jiang/miniz)
+
+
 
 ## **lib**
 - [cmake study](https://github.com/newbie-jiang/cmake-study)
